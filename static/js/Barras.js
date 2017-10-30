@@ -1,5 +1,5 @@
 $.ajax({
-    url: '/reuniao/reuniao/dados',
+    url: '/grafico/grafico/dados',
     dataType: 'JSON',
     success: function(resultado){
         renderizaGrafico(resultado);

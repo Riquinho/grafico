@@ -13,7 +13,7 @@
 
 </div>
 <br/>
-<a href="/reuniao/">Voltar</a>
-<script src="/reuniao/static/js/Barras.js"></script>
+<a href="/grafico/">Voltar</a>
+<script src="/grafico/static/js/Barras.js"></script>
 </body>
 </html>
